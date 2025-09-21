@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RT4813")(type "KiCad")(uri "${KIPRJMOD}/RT4813.kicad_sym")(options "")(descr ""))
+  (lib (name "SPM6530T-1R5M100")(type "KiCad")(uri "${KIPRJMOD}/SPM6530T_1R5M100/SPM6530T-1R5M100.kicad_sym")(options "")(descr ""))
+  (lib (name "RT4812GJ8F")(type "KiCad")(uri "${KIPRJMOD}/RT4812GJ8F/RT4812GJ8F.kicad_sym")(options "")(descr ""))
+)

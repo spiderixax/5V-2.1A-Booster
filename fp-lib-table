@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RT4813")(type "KiCad")(uri "${KIPRJMOD}/RT4813.pretty")(options "")(descr ""))
+  (lib (name "SPM6530T_1R5M100")(type "KiCad")(uri "${KIPRJMOD}/SPM6530T_1R5M100")(options "")(descr ""))
+  (lib (name "Solder pads")(type "KiCad")(uri "${KIPRJMOD}/Solder pads.pretty")(options "")(descr ""))
+  (lib (name "RT4812GJ8F")(type "KiCad")(uri "${KIPRJMOD}/RT4812GJ8F")(options "")(descr ""))
+)
